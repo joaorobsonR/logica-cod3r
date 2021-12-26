@@ -22,3 +22,22 @@ console.log(x);
     diferente da linguagem Java ou C++ que é
     de tipagem forte.
 */
+
+/*
+    um conceito muito importante é conparação de
+    valores e os seus tipos, de duas variáveis,
+    na linguagem JavaScript quando compara uma variável
+    que tem o mesmo numero, mesmo sendo de tipos diferentes
+    seu valor retorndo é true, para verificar o tipo 
+    restrito é necessario usar três sinais de igual, 
+    ex:
+        a === b; 
+*/
+
+let a = '1';
+let b = 1;
+
+console.log(a == b);
+console.log(a === b);
+console.log(a != b);
+console.log(a !== b);
