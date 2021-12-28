@@ -15,5 +15,5 @@ console.log('vamos ficar em casa', ficarCasa);
 
 /*
 muito legal o exemplo e logica do ou exclusivo,
-vé conhecia mais ainda não tinha visto um exemplo pratico.
+já conhecia mais ainda não tinha visto um exemplo pratico.
 */
