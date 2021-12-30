@@ -17,7 +17,7 @@ diferente dao Python onde não é necessário os colchetes.
 
 const notaex = 4;
 
-if (notaex >= 7)
+if (notaex >= 7) // importante nunca colocar ponto e virgula depois do if e antes do bloco
     console.log('honra de classe')
     console.log('parabéns')// essa sentença ainda vai ser executada apesar da indentação
 
