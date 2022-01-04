@@ -6,3 +6,9 @@ while ( Date.now() < futuro) {
 }
 
 console.log('quant: ', quant)
+
+/*
+1 declaração
+2 expressão
+3 controle
+*/
