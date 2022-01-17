@@ -1,4 +1,24 @@
-# Algoritmo de Lógica e Programação
-Curso do professor **Leonardo Moura Leitão** feito em **Java Script**
+# Algoritmo e Lógica de Programação
+Curso do professor **Leonardo Moura Leitão** feito em **JavaScript**
 
-## Conteúdos do visto no curso
+## Conteúdo do Curso
+---
+- [x] Introdução
+- [x] Configurando o Computador
+- [x] Iniciando com Programação
+- [x] Operadores
+- [x] Estrutura de Controle
+- [x] Funções
+- [x] Arrays
+- [x] Objetos
+- [ ] Lista de Exercicios
+
+### Minha Avaliação
+---
+Apesar de alguma experiência em *algoritmo e lógica de programação* em *Python* o curso me agradou muito e fez eu entrar em contato com uma outra liguagem, o * JavaScript* a linguagem mais usada no *Desenvolvimento Web* e umas das principais no mercado. O mais incrível é ver como os **princípios** se aplicam para as linguagens, apesar da síntaxe ser um pouco diferente.
+
+#### link do curso: [Algoritmo e Lógica de Programação do Absoluto ZERO!](https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/learn/lecture/23038402?start=1#overview)
+
+######
+![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNlIpuOHHIQyGK5ken1X3hO4kDoUe0n2SCmqpmf9I0ThNz1aaSafx_Fc9zPCntXs6bZU&usqp=CAU)
+![curso](https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png)
